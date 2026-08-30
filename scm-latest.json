@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 9,
+    "catalogVersion": 10,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -3646,6 +3646,395 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/12177/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-gemini-saga-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Gemini Saga",
+            "versionSuffix": "-Revival-",
+            "characterName": "Gemini Saga",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2017-05-20",
+            "reissueDates": [
+                "2025-01-24"
+            ],
+            "jan": "4549660128526",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "gemini-saga-ex-original",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011666_NR1pCnvL_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts",
+                    "Saint Cloth assembly instructions"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11666/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-taurus-aldebaran-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Taurus Aldebaran",
+            "versionSuffix": "-Revival-",
+            "characterName": "Taurus Aldebaran",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2024-08-10",
+            "reissueDates": [],
+            "jan": "4573102664679",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "taurus-aldebaran-ex-original",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000014800_YbLaZcgf_02.jpg",
+            "specifications": {
+                "size": "approx. 190mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts",
+                    "Saint Cloth assembly instructions"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/14800/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-cancer-deathmask-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Cancer Deathmask",
+            "versionSuffix": "-Revival-",
+            "characterName": "Cancer Deathmask",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2023-04-22",
+            "reissueDates": [
+                "2025-01-24"
+            ],
+            "jan": "4573102641762",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "cancer-deathmask-ex-original",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000014207_473iHtOi_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts",
+                    "Saint Cloth assembly instructions"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/14207/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-virgo-shaka-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Virgo Shaka",
+            "versionSuffix": "-Revival-",
+            "characterName": "Virgo Shaka",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2017-09-23",
+            "reissueDates": [
+                "2026-08-08"
+            ],
+            "jan": "4549660197973",
+            "channel": "RETAIL",
+            "availability": "AVAILABLE",
+            "sculptGroupId": "virgo-shaka-ex-original",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012197_yAuUqts6_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts",
+                    "Saint Cloth assembly instructions"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12197/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-libra-dohko-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Libra Dohko",
+            "versionSuffix": "-Revival-",
+            "characterName": "Libra Dohko",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2024-02-17",
+            "reissueDates": [],
+            "jan": "4573102660404",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "libra-dohko-ex-original",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000014590_0FTR4wAk_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Weapons",
+                    "Interchangeable parts",
+                    "Saint Cloth assembly instructions"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/14590/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-scorpio-milo-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Scorpio Milo",
+            "versionSuffix": "-Revival-",
+            "characterName": "Scorpio Milo",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2023-09-16",
+            "reissueDates": [
+                "2025-02-14"
+            ],
+            "jan": "4573102655486",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "scorpio-milo-ex-original",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000014387_1Bx168v1_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts",
+                    "Saint Cloth assembly instructions"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/14387/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-sagittarius-aiolos-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Sagittarius Aiolos",
+            "versionSuffix": "-Revival-",
+            "characterName": "Sagittarius Aiolos",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2021-01-16",
+            "reissueDates": [
+                "2025-02-14"
+            ],
+            "jan": "4573102608369",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "sagittarius-aiolos-ex-original",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013372_i5NCloju_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Baby Athena",
+                    "Interchangeable parts",
+                    "Saint Cloth assembly instructions"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13372/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-capricorn-shura-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Capricorn Shura",
+            "versionSuffix": "-Revival-",
+            "characterName": "Capricorn Shura",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2021-04-17",
+            "reissueDates": [
+                "2025-01-24"
+            ],
+            "jan": "4573102612908",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "capricorn-shura-ex-original",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013470_HVXgK6VJ_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts",
+                    "Saint Cloth assembly instructions"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13470/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-aquarius-camus-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Aquarius Camus",
+            "versionSuffix": "-Revival-",
+            "characterName": "Aquarius Camus",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2022-10-22",
+            "reissueDates": [
+                "2025-02-14"
+            ],
+            "jan": "4573102638984",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "aquarius-camus-ex-original",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013973_C7WTi8lB_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts",
+                    "Saint Cloth assembly instructions"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13973/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-pisces-aphrodite-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Pisces Aphrodite",
+            "versionSuffix": "-Revival-",
+            "characterName": "Pisces Aphrodite",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2020-09-12",
+            "reissueDates": [
+                "2025-02-14"
+            ],
+            "jan": "4573102605009",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "pisces-aphrodite-ex-original",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013244_n8byAimr_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Rose parts",
+                    "Interchangeable parts",
+                    "Saint Cloth assembly instructions"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13244/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
