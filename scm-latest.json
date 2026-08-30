@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 4,
+    "catalogVersion": 5,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -1803,6 +1803,366 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/14874/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-pegasus-seiya-new-bronze",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Pegasus Seiya",
+            "versionSuffix": "New Bronze Cloth",
+            "characterName": "Pegasus Seiya",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2012-06-30",
+            "reissueDates": [],
+            "jan": "4543112750365",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "pegasus-seiya-ex-new-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000001720_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/1720/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-dragon-shiryu-new-bronze",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Dragon Shiryu",
+            "versionSuffix": "New Bronze Cloth",
+            "characterName": "Dragon Shiryu",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2013-08-24",
+            "reissueDates": [],
+            "jan": "4543112814210",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "dragon-shiryu-ex-new-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010372_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10372/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-cygnus-hyoga-new-bronze",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Cygnus Hyoga",
+            "versionSuffix": "New Bronze Cloth",
+            "characterName": "Cygnus Hyoga",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2014-08-30",
+            "reissueDates": [],
+            "jan": "4543112896070",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "cygnus-hyoga-ex-new-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010692_ekpIaBJ3_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10692/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-phoenix-ikki-new-bronze-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Phoenix Ikki",
+            "versionSuffix": "New Bronze Cloth Revival",
+            "characterName": "Phoenix Ikki",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2021-02-20",
+            "reissueDates": [],
+            "jan": "4573102610201",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "phoenix-ikki-ex-new-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013394_ChJrKYEv_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Cloth assembly diagram"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13394/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-andromeda-shun-new-bronze-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Andromeda Shun",
+            "versionSuffix": "New Bronze Cloth Revival",
+            "characterName": "Andromeda Shun",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2021-09-01",
+            "reissueDates": [],
+            "jan": "4573102629807",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "andromeda-shun-ex-new-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013756_j8bdmKBX_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Cloth assembly diagram"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13756/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-pegasus-seiya-god-cloth-10th",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Pegasus Seiya",
+            "versionSuffix": "God Cloth 10th Anniversary",
+            "characterName": "Pegasus Seiya",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2013-09-28",
+            "reissueDates": [],
+            "jan": "4543112819345",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "pegasus-seiya-god-cloth-10th",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010400_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable faces"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10400/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-dragon-shiryu-god-cloth-10th",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Dragon Shiryu",
+            "versionSuffix": "God Cloth 10th Anniversary",
+            "characterName": "Dragon Shiryu",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2013-10-19",
+            "reissueDates": [],
+            "jan": "4543112819352",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "dragon-shiryu-god-cloth-10th",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010440_V3GyVUAj_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable faces"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10440/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-cygnus-hyoga-god-cloth-10th",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Cygnus Hyoga",
+            "versionSuffix": "God Cloth 10th Anniversary",
+            "characterName": "Cygnus Hyoga",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2013-11-23",
+            "reissueDates": [],
+            "jan": "4543112819369",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "cygnus-hyoga-god-cloth-10th",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010476_AxnkrxVV_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable faces"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10476/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-andromeda-shun-god-cloth-10th",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Andromeda Shun",
+            "versionSuffix": "God Cloth 10th Anniversary",
+            "characterName": "Andromeda Shun",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2014-01-25",
+            "reissueDates": [],
+            "jan": "4543112819376",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "andromeda-shun-god-cloth-10th",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010519_o473lO1T_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable faces"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10519/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-phoenix-ikki-god-cloth-10th",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Phoenix Ikki",
+            "versionSuffix": "God Cloth 10th Anniversary",
+            "characterName": "Phoenix Ikki",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2014-02-15",
+            "reissueDates": [],
+            "jan": "4543112819390",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "phoenix-ikki-god-cloth-10th",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010536_kfLdpXLA_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable faces"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10536/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
