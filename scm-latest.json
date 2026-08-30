@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 3,
+    "catalogVersion": 4,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -1438,6 +1438,371 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/14809/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-phoenix-ikki-early-bronze-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Phoenix Ikki",
+            "versionSuffix": "Early Bronze Cloth Revival",
+            "characterName": "Phoenix Ikki",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2018-07-21",
+            "reissueDates": [],
+            "jan": "4549660238997",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "phoenix-ikki-early-bronze-revival",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012498_PJVdVxZg_02.jpg",
+            "specifications": {
+                "size": "approx. 165mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12498/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-andromeda-shun-early-bronze-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Andromeda Shun",
+            "versionSuffix": "Early Bronze Cloth Revival",
+            "characterName": "Andromeda Shun",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2018-08-11",
+            "reissueDates": [],
+            "jan": "4573102557926",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "andromeda-shun-early-bronze-revival",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012531_omgfbsuz_02.jpg",
+            "specifications": {
+                "size": "approx. 165mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12531/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-pegasus-seiya-early-bronze-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Pegasus Seiya",
+            "versionSuffix": "Early Bronze Cloth Revival",
+            "characterName": "Pegasus Seiya",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2018-09-15",
+            "reissueDates": [
+                "2026-12-01"
+            ],
+            "jan": "4573102591944",
+            "channel": "RETAIL",
+            "availability": "REISSUE_ANNOUNCED",
+            "sculptGroupId": "pegasus-seiya-early-bronze-revival",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012559_6zmAvdEP_02.jpg",
+            "specifications": {
+                "size": "approx. 165mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12559/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-dragon-shiryu-early-bronze-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Dragon Shiryu",
+            "versionSuffix": "Early Bronze Cloth Revival",
+            "characterName": "Dragon Shiryu",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2019-06-22",
+            "reissueDates": [],
+            "jan": "4573102557933",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "dragon-shiryu-early-bronze-revival",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012826_shR4tJ9L_02.jpg",
+            "specifications": {
+                "size": "approx. 165mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12826/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-cygnus-hyoga-early-bronze-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Cygnus Hyoga",
+            "versionSuffix": "Early Bronze Cloth Revival",
+            "characterName": "Cygnus Hyoga",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2019-07-20",
+            "reissueDates": [],
+            "jan": "4573102557940",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "cygnus-hyoga-early-bronze-revival",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012862_lKpZRMN8_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Aurora Execution hands"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12862/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-pegasus-seiya-final-bronze",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Pegasus Seiya",
+            "versionSuffix": "Final Bronze Cloth",
+            "characterName": "Pegasus Seiya",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2021-05-29",
+            "reissueDates": [],
+            "jan": "4573102612687",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "pegasus-seiya-ex-final-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013506_cV9eawg5_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts",
+                    "Athena statue"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13506/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-dragon-shiryu-final-bronze",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Dragon Shiryu",
+            "versionSuffix": "Final Bronze Cloth",
+            "characterName": "Dragon Shiryu",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2022-04-23",
+            "reissueDates": [],
+            "jan": "4573102632548",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "dragon-shiryu-ex-final-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013819_fPZ5TCzr_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13819/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-andromeda-shun-final-bronze",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Andromeda Shun",
+            "versionSuffix": "Final Bronze Cloth",
+            "characterName": "Andromeda Shun",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2022-09-01",
+            "reissueDates": [],
+            "jan": "4573102637246",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "andromeda-shun-ex-final-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013938_pDRxiLaN_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Chains",
+                    "Young Ikki and Shun"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13938/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-cygnus-hyoga-final-bronze",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Cygnus Hyoga",
+            "versionSuffix": "Final Bronze Cloth",
+            "characterName": "Cygnus Hyoga",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2023-08-11",
+            "reissueDates": [],
+            "jan": "4573102650443",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "cygnus-hyoga-ex-final-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000014328_1QlFwb7h_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Aurora Execution hands",
+                    "Bonus faces"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/14328/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-phoenix-ikki-final-bronze",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Phoenix Ikki",
+            "versionSuffix": "Final Bronze Cloth",
+            "characterName": "Phoenix Ikki",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2024-10-24",
+            "reissueDates": [],
+            "jan": "4573102653338",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "phoenix-ikki-ex-final-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000014874_uFzgovip_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable wing parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/14874/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
