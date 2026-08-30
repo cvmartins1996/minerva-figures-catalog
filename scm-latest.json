@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 6,
+    "catalogVersion": 7,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -2483,6 +2483,371 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/15153/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-andromeda-shun-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Andromeda Shun",
+            "versionSuffix": "God Cloth",
+            "characterName": "Andromeda Shun",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2025-12-27",
+            "reissueDates": [],
+            "jan": "4573102687654",
+            "channel": "RETAIL",
+            "availability": "AVAILABLE",
+            "sculptGroupId": "andromeda-shun-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000015429_4XGAcjr1_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Nebula Chain parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/15429/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-hades",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Hades",
+            "versionSuffix": null,
+            "characterName": "Hades",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2020-12-26",
+            "reissueDates": [],
+            "jan": "4573102608352",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "hades-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013331_5IE7r0PY_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Cape",
+                    "Swords"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13331/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-hypnos",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Hypnos",
+            "versionSuffix": null,
+            "characterName": "Hypnos",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2021-12-18",
+            "reissueDates": [],
+            "jan": "4573102619044",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "hypnos-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013687_sDT9DF8h_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Robe",
+                    "Holy ark"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13687/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-thanatos",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Thanatos",
+            "versionSuffix": null,
+            "characterName": "Thanatos",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2023-01-21",
+            "reissueDates": [],
+            "jan": "4573102640475",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "thanatos-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000014082_ZfkqNMiF_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Robe",
+                    "Harp"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/14082/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-wyvern-rhadamanthys",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Wyvern Rhadamanthys",
+            "versionSuffix": null,
+            "characterName": "Wyvern Rhadamanthys",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2014-04-26",
+            "reissueDates": [],
+            "jan": "4543112846297",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "wyvern-rhadamanthys-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010582_gltNLPZ5_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10582/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-gemini-saga-surplice",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Gemini Saga",
+            "versionSuffix": "Surplice",
+            "characterName": "Gemini Saga",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2014-02-22",
+            "reissueDates": [],
+            "jan": "4543112828668",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "gemini-saga-ex-surplice",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010537_IRxEMji6_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10537/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-garuda-aiacos",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Garuda Aiacos",
+            "versionSuffix": null,
+            "characterName": "Garuda Aiacos",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2018-11-01",
+            "reissueDates": [],
+            "jan": "4573102551320",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "garuda-aiacos-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012609_zlgOdg6B_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12609/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-griffon-minos",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Griffon Minos",
+            "versionSuffix": null,
+            "characterName": "Griffon Minos",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2018-03-01",
+            "reissueDates": [],
+            "jan": "4543112901514",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "griffon-minos-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012345_es4duZuu_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12345/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-poseidon",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Poseidon",
+            "versionSuffix": null,
+            "characterName": "Poseidon",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2018-06-23",
+            "reissueDates": [],
+            "jan": "4549660238973",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "poseidon-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012459_0WyfxDZj_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Scale set",
+                    "Object frame",
+                    "Cape",
+                    "Trident"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12459/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-siren-sorrento",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Siren Sorrento",
+            "versionSuffix": null,
+            "characterName": "Siren Sorrento",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2015-11-01",
+            "reissueDates": [],
+            "jan": "4543112741721",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "siren-sorrento-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011054_1dEOHWxX_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Scale set",
+                    "Object frame",
+                    "Cape",
+                    "Flute"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11054/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
