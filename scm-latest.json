@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 2,
+    "catalogVersion": 3,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -970,6 +970,474 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/10189/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-lyra-orphee",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Lyra Orphee",
+            "versionSuffix": null,
+            "characterName": "Lyra Orphee",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2006-06-01",
+            "reissueDates": [
+                "2010-05-02"
+            ],
+            "jan": null,
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "lyra-orphee-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000000585_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Lyre"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/585/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-perseus-algol",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Perseus Algol",
+            "versionSuffix": null,
+            "characterName": "Perseus Algol",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2010-02-27",
+            "reissueDates": [],
+            "jan": "4543112580917",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "perseus-algol-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000001233_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Medusa shield"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/1233/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-lizard-misty",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Lizard Misty",
+            "versionSuffix": null,
+            "characterName": "Lizard Misty",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2010-05-27",
+            "reissueDates": [],
+            "jan": "4543112580924",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "lizard-misty-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000001269_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Cloak",
+                    "Bathing body"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/1269/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ophiuchus-shaina-casios",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Ophiuchus Shaina & Casios",
+            "versionSuffix": null,
+            "characterName": "Ophiuchus Shaina",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2011-11-26",
+            "reissueDates": [],
+            "jan": "4543112694539",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "ophiuchus-shaina-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000001604_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "POM",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Shaina body",
+                    "Casios figure",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/1604/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-eagle-marin",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Eagle Marin",
+            "versionSuffix": null,
+            "characterName": "Eagle Marin",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2012-05-19",
+            "reissueDates": [],
+            "jan": "4543112701626",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "eagle-marin-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000001706_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/1706/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-perseus-algol-surplice",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Perseus Algol",
+            "versionSuffix": "Surplice",
+            "characterName": "Perseus Algol",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2012-08-01",
+            "reissueDates": [],
+            "jan": "4543112762474",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "perseus-algol-surplice",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010105_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice cloth set",
+                    "Object frame"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10105/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-lizard-misty-surplice",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Lizard Misty",
+            "versionSuffix": "Surplice",
+            "characterName": "Lizard Misty",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2014-08-01",
+            "reissueDates": [],
+            "jan": "4543112896629",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "lizard-misty-surplice",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010664_1BRCmXQw_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice cloth set",
+                    "Object frame"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10664/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-sagitta-ptolemy",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Sagitta Ptolemy",
+            "versionSuffix": null,
+            "characterName": "Sagitta Ptolemy",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2015-12-01",
+            "reissueDates": [],
+            "jan": "4543112776983",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "sagitta-ptolemy-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011088_UtjEZh3k_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Golden arrow"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11088/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-cerberus-dante",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Cerberus Dante",
+            "versionSuffix": null,
+            "characterName": "Cerberus Dante",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2018-07-01",
+            "reissueDates": [],
+            "jan": "4549660239000",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "cerberus-dante-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012513_C8q1vRIR_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Steel ball chains"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12513/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-crow-jamian",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Crow Jamian",
+            "versionSuffix": null,
+            "characterName": "Crow Jamian",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2020-09-01",
+            "reissueDates": [],
+            "jan": "4573102595874",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "crow-jamian-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013258_NXlasfb7_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13258/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-auriga-capella",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Auriga Capella",
+            "versionSuffix": null,
+            "characterName": "Auriga Capella",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2021-11-01",
+            "reissueDates": [],
+            "jan": "4573102608970",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "auriga-capella-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013684_1G8PiI6a_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13684/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-centaurus-babel",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Centaurus Babel",
+            "versionSuffix": null,
+            "characterName": "Centaurus Babel",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2022-11-01",
+            "reissueDates": [],
+            "jan": "4573102638991",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "centaurus-babel-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000014025_8iGX3LxO_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Anime and manga cloth parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/14025/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-whale-moses",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Whale Moses",
+            "versionSuffix": null,
+            "characterName": "Whale Moses",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2024-07-01",
+            "reissueDates": [],
+            "jan": "4573102650450",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "whale-moses-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000014809_apZVUiTG_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/14809/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
