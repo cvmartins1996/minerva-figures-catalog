@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 11,
+    "catalogVersion": 12,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -4468,6 +4468,89 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/15383/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-dubhe-siegfried-40th",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Dubhe Siegfried",
+            "versionSuffix": "40th Anniversary Ver.",
+            "characterName": "Dubhe Siegfried",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2026-11-01",
+            "reissueDates": [],
+            "jan": null,
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "PREORDER",
+            "sculptGroupId": "dubhe-siegfried-ex-40th",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/main/bfb66345-84d2-4598-a44b-2424e323506b.webp",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast",
+                    "Fabric"
+                ],
+                "contents": [
+                    "Main body",
+                    "God Warrior outfit",
+                    "Object frame",
+                    "Cloak part",
+                    "5 interchangeable expression parts",
+                    "Interchangeable hands (3 left, 4 right)",
+                    "Interchangeable hair set",
+                    "Saint Seiya 40th Anniversary commemorative base"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/15943/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-merak-hagen-40th",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Merak Hagen",
+            "versionSuffix": "40th Anniversary Ver.",
+            "characterName": "Merak Hagen",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2026-12-01",
+            "reissueDates": [],
+            "jan": null,
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "PREORDER",
+            "sculptGroupId": "merak-hagen-ex-40th",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/main/ecc03091-934d-4b36-9bd2-c9f307f8a87b.webp",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast",
+                    "Fabric"
+                ],
+                "contents": [
+                    "Main body",
+                    "God Warrior outfit",
+                    "Object frame",
+                    "Cloak part",
+                    "4 interchangeable expression parts",
+                    "Interchangeable hands (3 left, 5 right)",
+                    "Interchangeable movable chest parts",
+                    "Interchangeable hair parts",
+                    "Saint Seiya 40th Anniversary commemorative base"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/16002/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
