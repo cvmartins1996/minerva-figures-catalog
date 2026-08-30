@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 5,
+    "catalogVersion": 6,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -2163,6 +2163,326 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/10536/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-unicorn-jabu-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Unicorn Jabu",
+            "versionSuffix": "Revival",
+            "characterName": "Unicorn Jabu",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2020-07-18",
+            "reissueDates": [],
+            "jan": "4573102591913",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "unicorn-jabu-revival",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013212_82yp5R4r_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13212/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-hydra-ichi",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Hydra Ichi",
+            "versionSuffix": null,
+            "characterName": "Hydra Ichi",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2005-11-01",
+            "reissueDates": [],
+            "jan": null,
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "hydra-ichi-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000000504_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/504/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-lionet-ban",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Lionet Ban",
+            "versionSuffix": null,
+            "characterName": "Lionet Ban",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2006-04-01",
+            "reissueDates": [],
+            "jan": null,
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "lionet-ban-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000000565_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/565/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-wolf-nachi",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Wolf Nachi",
+            "versionSuffix": null,
+            "characterName": "Wolf Nachi",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2006-04-01",
+            "reissueDates": [],
+            "jan": null,
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "wolf-nachi-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000000566_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/566/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-bear-geki",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Bear Geki",
+            "versionSuffix": null,
+            "characterName": "Bear Geki",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2006-10-01",
+            "reissueDates": [],
+            "jan": null,
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "bear-geki-classic",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000000635_02.jpg",
+            "specifications": {
+                "size": null,
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/635/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-steel-sky-sho-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Steel Saint Sky Cloth Sho",
+            "versionSuffix": "Revival",
+            "characterName": "Steel Saint Sho",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2021-07-17",
+            "reissueDates": [],
+            "jan": "4573102613561",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "steel-sky-sho-revival",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013555_ncho7S4w_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13555/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-steel-marine-ushio-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Steel Saint Marine Cloth Ushio",
+            "versionSuffix": "Revival",
+            "characterName": "Steel Saint Ushio",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2022-07-01",
+            "reissueDates": [],
+            "jan": "4573102633279",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "steel-marine-ushio-revival",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013915_vBeXUAAj_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13915/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-steel-land-daichi-revival",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH",
+            "canonicalName": "Steel Saint Land Cloth Daichi",
+            "versionSuffix": "Revival",
+            "characterName": "Steel Saint Daichi",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2022-08-01",
+            "reissueDates": [],
+            "jan": "4573102633286",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "steel-land-daichi-revival",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013953_yoIfaR0x_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13953/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-pegasus-seiya-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Pegasus Seiya",
+            "versionSuffix": "God Cloth",
+            "characterName": "Pegasus Seiya",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2025-05-31",
+            "reissueDates": [],
+            "jan": "4573102675071",
+            "channel": "RETAIL",
+            "availability": "AVAILABLE",
+            "sculptGroupId": "pegasus-seiya-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000015153_rmr83FMQ_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Damaged cloth options"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/15153/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
