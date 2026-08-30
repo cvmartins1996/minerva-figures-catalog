@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 7,
+    "catalogVersion": 8,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -2848,6 +2848,366 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/11054/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-cancer-deathmask-surplice",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Cancer Deathmask",
+            "versionSuffix": "Surplice",
+            "characterName": "Cancer Deathmask",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2015-03-21",
+            "reissueDates": [],
+            "jan": "4543112920218",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "cancer-deathmask-ex-surplice",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010872_Jpdh4bS3_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10872/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-capricorn-shura-surplice",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Capricorn Shura",
+            "versionSuffix": "Surplice",
+            "characterName": "Capricorn Shura",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2014-09-27",
+            "reissueDates": [],
+            "jan": "4543112896599",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "capricorn-shura-ex-surplice",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010726_JsRebnwc_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10726/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-aquarius-camus-surplice",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Aquarius Camus",
+            "versionSuffix": "Surplice",
+            "characterName": "Aquarius Camus",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2017-09-01",
+            "reissueDates": [],
+            "jan": "4549660158400",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "aquarius-camus-ex-surplice",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012144_NFmnF5G2_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12144/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-pisces-aphrodite-surplice",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Pisces Aphrodite",
+            "versionSuffix": "Surplice",
+            "characterName": "Pisces Aphrodite",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2019-02-01",
+            "reissueDates": [],
+            "jan": "4573102551566",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "pisces-aphrodite-ex-surplice",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012715_VNm1lPMq_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12715/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-aries-shion-surplice",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Aries Shion",
+            "versionSuffix": "Surplice",
+            "characterName": "Aries Shion",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2019-07-01",
+            "reissueDates": [],
+            "jan": "4573102553959",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "aries-shion-ex-surplice",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012868_fMQ60p9H_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Surplice set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12868/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-sea-dragon-kanon",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Sea Dragon Kanon",
+            "versionSuffix": null,
+            "characterName": "Sea Dragon Kanon",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2015-07-18",
+            "reissueDates": [],
+            "jan": "4543112701695",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "sea-dragon-kanon-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010967_k4SlkTxz_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Scale set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10967/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-chrysaor-krishna",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Chrysaor Krishna",
+            "versionSuffix": null,
+            "characterName": "Chrysaor Krishna",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2019-09-01",
+            "reissueDates": [],
+            "jan": "4573102570307",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "chrysaor-krishna-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012949_tJV0LBao_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Scale set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12949/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-scylla-io",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Scylla Io",
+            "versionSuffix": null,
+            "characterName": "Scylla Io",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2020-04-01",
+            "reissueDates": [],
+            "jan": "4573102589439",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "scylla-io-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013093_E0JpEJoj_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Scale set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13093/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-sea-horse-baian",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Sea Horse Baian",
+            "versionSuffix": null,
+            "characterName": "Sea Horse Baian",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2020-08-01",
+            "reissueDates": [],
+            "jan": "4573102595867",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "sea-horse-baian-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013252_qpd9c70f_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Scale set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13252/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-lyumnades-kasa",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Lyumnades Kasa",
+            "versionSuffix": null,
+            "characterName": "Lyumnades Kasa",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2022-04-01",
+            "reissueDates": [],
+            "jan": "4573102629814",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "lyumnades-kasa-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013815_sxfxk3RD_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Scale set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13815/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
