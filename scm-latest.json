@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 10,
+    "catalogVersion": 11,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -4035,6 +4035,439 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/13244/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-dragon-shiryu-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Dragon Shiryu",
+            "versionSuffix": "God Cloth",
+            "characterName": "Dragon Shiryu",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2027-02-01",
+            "reissueDates": [],
+            "jan": null,
+            "channel": "RETAIL",
+            "availability": "PREORDER",
+            "sculptGroupId": "dragon-shiryu-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/main/d90485be-d3bf-40e1-a60c-80b6b652b54f.webp",
+            "specifications": {
+                "size": "approx. 175mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "3 pairs of interchangeable hands",
+                    "3 interchangeable expression parts",
+                    "Interchangeable hair set"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/16038/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-kraken-isaac",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Kraken Isaac",
+            "versionSuffix": null,
+            "characterName": "Kraken Isaac",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2019-01-01",
+            "reissueDates": [],
+            "jan": "4573102550460",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "kraken-isaac-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012647_zbkptaEH_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Scale set",
+                    "Object frame",
+                    "4 interchangeable expression parts",
+                    "Interchangeable bangs",
+                    "5 left / 7 right interchangeable hands"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12647/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-dubhe-siegfried",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Dubhe Siegfried",
+            "versionSuffix": null,
+            "characterName": "Dubhe Siegfried",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2019-12-14",
+            "reissueDates": [],
+            "jan": "4573102576385",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "dubhe-siegfried-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013020_0HeX1MSJ_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "God Warrior outfit",
+                    "Object frame",
+                    "Cloak",
+                    "4 interchangeable expression parts",
+                    "Interchangeable hands (3 left, 4 right)",
+                    "Interchangeable hair parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13020/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-merak-hagen",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Merak Hagen",
+            "versionSuffix": null,
+            "characterName": "Merak Hagen",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2020-05-30",
+            "reissueDates": [],
+            "jan": "4573102589446",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "merak-hagen-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013136_s3qIUdaa_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "God Warrior outfit",
+                    "Object frame",
+                    "Cloak",
+                    "3 interchangeable expression parts",
+                    "Interchangeable hands (3 left, 5 right)",
+                    "Hair parts",
+                    "Interchangeable chest parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13136/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-mizar-syd",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Mizar Syd",
+            "versionSuffix": null,
+            "characterName": "Mizar Syd",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2020-11-21",
+            "reissueDates": [],
+            "jan": "4573102604729",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "mizar-syd-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013307_JqEy6iuW_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "God Warrior outfit",
+                    "Object frame",
+                    "Cloak",
+                    "3 interchangeable expression parts",
+                    "5 pairs of interchangeable hands",
+                    "Interchangeable mask parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13307/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-megrez-alberich",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Megrez Alberich",
+            "versionSuffix": null,
+            "characterName": "Megrez Alberich",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2021-11-13",
+            "reissueDates": [],
+            "jan": "4573102617033",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "megrez-alberich-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013656_PQ3US5vW_02.jpg",
+            "specifications": {
+                "size": "approx. 160mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "God Warrior outfit",
+                    "Object frame",
+                    "4 interchangeable expression parts",
+                    "Interchangeable hands (5 left, 4 right)",
+                    "Interchangeable hair parts",
+                    "Flame sword",
+                    "Flame sword effect"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13656/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-alcor-bud",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Alcor Bud",
+            "versionSuffix": null,
+            "characterName": "Alcor Bud",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2022-03-01",
+            "reissueDates": [],
+            "jan": "4573102632319",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "alcor-bud-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000013801_u3SBiIdB_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "God Warrior outfit",
+                    "Object frame",
+                    "Cloak",
+                    "5 interchangeable expression parts",
+                    "5 pairs of interchangeable hands",
+                    "Interchangeable mask parts",
+                    "2 daggers"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/13801/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-phecda-thor",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Phecda Thor",
+            "versionSuffix": null,
+            "characterName": "Phecda Thor",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2023-06-17",
+            "reissueDates": [],
+            "jan": "4573102641878",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "phecda-thor-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000014258_RgUy7HLP_02.jpg",
+            "specifications": {
+                "size": "approx. 250mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "God Warrior outfit",
+                    "Object frame",
+                    "3 interchangeable expression parts",
+                    "4 pairs of interchangeable hands",
+                    "2 Mjolnir Hammers",
+                    "2 Mjolnir Hammer effects",
+                    "Cloth set for attaching hammers"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/14258/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-benetnasch-mime",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Benetnasch Mime",
+            "versionSuffix": null,
+            "characterName": "Benetnasch Mime",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2025-07-01",
+            "reissueDates": [],
+            "jan": "4573102675552",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "benetnasch-mime-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000015311_JCvKN1ug_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "God Warrior outfit",
+                    "Object frame",
+                    "6 pairs of interchangeable hands",
+                    "4 interchangeable expression parts",
+                    "Interchangeable hair parts",
+                    "Harp"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/15311/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-alioth-fenrir",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Alioth Fenrir",
+            "versionSuffix": null,
+            "characterName": "Alioth Fenrir",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2026-06-01",
+            "reissueDates": [],
+            "jan": "4573102698230",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "alioth-fenrir-ex",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/main/Gs9crBhVBd1MVdVP4MnE6umyY8hwXiKmCIgIwPyb.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "God Warrior outfit",
+                    "Object frame",
+                    "Interchangeable hands (3 left, 4 right)",
+                    "4 interchangeable expression parts",
+                    "Interchangeable hair parts",
+                    "Goggle-open mask",
+                    "Goggle-open hair parts",
+                    "Ging"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/15732/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-odin-seiya",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Pegasus Seiya",
+            "versionSuffix": "Odin Cloth",
+            "characterName": "Pegasus Seiya",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2025-10-01",
+            "reissueDates": [],
+            "jan": "4573102676566",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "pegasus-seiya-ex-odin-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000015383_IhSKwztX_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Cloak",
+                    "5 pairs of interchangeable hands",
+                    "3 interchangeable expression parts",
+                    "Interchangeable hair parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/15383/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
