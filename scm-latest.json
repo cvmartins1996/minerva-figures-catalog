@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 12,
+    "catalogVersion": 13,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -4551,6 +4551,126 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/16002/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-pegasus-seiya-first-bronze",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Pegasus Seiya",
+            "versionSuffix": "First Bronze Cloth",
+            "characterName": "Pegasus Seiya",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2026-12-01",
+            "reissueDates": [],
+            "jan": "4573102722638",
+            "channel": "RETAIL",
+            "availability": "PREORDER",
+            "sculptGroupId": "pegasus-seiya-ex-first-bronze",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/main/74dd91d5-db9c-4784-9f49-840f5f7253e0.webp",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "2 pairs of interchangeable hands",
+                    "3 interchangeable expression parts",
+                    "Interchangeable hair set",
+                    "Cloth set",
+                    "Object frame"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/15905/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-pegasus-seiya-final-bronze-original-color",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Pegasus Seiya",
+            "versionSuffix": "Final Bronze Cloth Original Color Edition",
+            "characterName": "Pegasus Seiya",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2026-05-01",
+            "reissueDates": [],
+            "jan": "4573102698223",
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "pegasus-seiya-ex-final-bronze-original-color",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000015695_g2RWhpOr_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "4 pairs of interchangeable hands",
+                    "4 interchangeable expression parts",
+                    "Interchangeable hair set",
+                    "Cloth set",
+                    "Object frame",
+                    "Athena statue (small)",
+                    "Pegasus Meteor Fist effect parts",
+                    "Effect parts stand"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/15695/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-andromeda-shun-final-bronze-original-color",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Andromeda Shun",
+            "versionSuffix": "Final Bronze Cloth Original Color Edition",
+            "characterName": "Andromeda Shun",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2026-10-01",
+            "reissueDates": [],
+            "jan": null,
+            "channel": "TAMASHII_WEB_SHOP",
+            "availability": "PREORDER",
+            "sculptGroupId": "andromeda-shun-ex-final-bronze-original-color",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/main/d2ba5cce-a5de-4928-b8c9-977fe3494344.webp",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "4 pairs of interchangeable hands",
+                    "4 interchangeable expression parts",
+                    "Interchangeable hair set",
+                    "Cloth set",
+                    "Object frame",
+                    "Rolling Defense chain",
+                    "Thunder Wave effect chain",
+                    "Effect parts stand"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/15868/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
