@@ -1,5 +1,5 @@
 {
-    "catalogVersion": 8,
+    "catalogVersion": 9,
     "generatedAt": "2026-08-30",
     "lines": [
         "SAINT CLOTH MYTH",
@@ -3208,6 +3208,444 @@
             "source": {
                 "kind": "OFFICIAL",
                 "originUrl": "https://tamashiiweb.com/item/13815/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-aries-mu-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Aries Mu",
+            "versionSuffix": "God Cloth",
+            "characterName": "Aries Mu",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2015-08-29",
+            "reissueDates": [],
+            "jan": "4543112963178",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "aries-mu-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011011_mc9HwRoo_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11011/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-taurus-aldebaran-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Taurus Aldebaran",
+            "versionSuffix": "God Cloth",
+            "characterName": "Taurus Aldebaran",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2016-11-26",
+            "reissueDates": [],
+            "jan": "4549660093992",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "taurus-aldebaran-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011447_NLrdcOJr_02.jpg",
+            "specifications": {
+                "size": "approx. 200mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11447/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-gemini-saga-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Gemini Saga",
+            "versionSuffix": "God Cloth",
+            "characterName": "Gemini Saga",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2017-05-20",
+            "reissueDates": [],
+            "jan": "4549660128502",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "gemini-saga-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011665_aH0vUfpd_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11665/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-cancer-deathmask-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Cancer Deathmask",
+            "versionSuffix": "God Cloth",
+            "characterName": "Cancer Deathmask",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2016-01-30",
+            "reissueDates": [],
+            "jan": "4549660018537",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "cancer-deathmask-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011121_YVxksgcG_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11121/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-leo-aiolia-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Leo Aiolia",
+            "versionSuffix": "God Cloth",
+            "characterName": "Leo Aiolia",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2015-06-27",
+            "reissueDates": [
+                "2015-12-12"
+            ],
+            "jan": "4543112959423",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "leo-aiolia-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000010996_Dv12TudU_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/10996/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-virgo-shaka-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Virgo Shaka",
+            "versionSuffix": "God Cloth",
+            "characterName": "Virgo Shaka",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2015-10-24",
+            "reissueDates": [],
+            "jan": "4543112974204",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "virgo-shaka-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011038_V5VaXMoq_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11038/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-libra-dohko-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Libra Dohko",
+            "versionSuffix": "God Cloth",
+            "characterName": "Libra Dohko",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2018-01-27",
+            "reissueDates": [
+                "2021-09-18"
+            ],
+            "jan": "4549660186601",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "libra-dohko-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012238_XlgLcUwL_02.jpg",
+            "specifications": {
+                "size": "approx. 170mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Libra weapons"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12238/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-scorpio-milo-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Scorpio Milo",
+            "versionSuffix": "God Cloth",
+            "characterName": "Scorpio Milo",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2017-07-22",
+            "reissueDates": [
+                "2020-09-25"
+            ],
+            "jan": "4573102604835",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "scorpio-milo-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011739_8ujBD7gm_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11739/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-sagittarius-aiolos-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Sagittarius Aiolos",
+            "versionSuffix": "God Cloth",
+            "characterName": "Sagittarius Aiolos",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2016-09-22",
+            "reissueDates": [],
+            "jan": "4549660062363",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "sagittarius-aiolos-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011368_aabJQ2lr_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11368/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-capricorn-shura-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Capricorn Shura",
+            "versionSuffix": "God Cloth",
+            "characterName": "Capricorn Shura",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2016-04-28",
+            "reissueDates": [],
+            "jan": "4549660037941",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "capricorn-shura-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011226_Q3mQCMel_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11226/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-aquarius-camus-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Aquarius Camus",
+            "versionSuffix": "God Cloth",
+            "characterName": "Aquarius Camus",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2016-07-30",
+            "reissueDates": [],
+            "jan": "4549660018544",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "aquarius-camus-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000011312_b11DsrGG_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/11312/?wovn=en",
+                "collectedAt": "2026-08-30",
+                "confidence": "OFFICIAL"
+            }
+        },
+        {
+            "id": "tamashii-scm-ex-pisces-aphrodite-god-cloth",
+            "manufacturer": "Tamashii Nations",
+            "brandLine": "SAINT CLOTH MYTH EX",
+            "canonicalName": "Pisces Aphrodite",
+            "versionSuffix": "God Cloth",
+            "characterName": "Pisces Aphrodite",
+            "originSeries": "Saint Seiya",
+            "releaseDate": "2017-10-21",
+            "reissueDates": [],
+            "jan": "4549660149491",
+            "channel": "RETAIL",
+            "availability": "DISCONTINUED",
+            "sculptGroupId": "pisces-aphrodite-ex-god-cloth",
+            "productImageUrl": "https://tamashiiweb.com/storage/images/products/imported/item_0000012177_DpzjhdKx_02.jpg",
+            "specifications": {
+                "size": "approx. 180mm",
+                "materials": [
+                    "ABS",
+                    "PVC",
+                    "Die-cast"
+                ],
+                "contents": [
+                    "Main body",
+                    "Cloth set",
+                    "Object frame",
+                    "Interchangeable parts"
+                ]
+            },
+            "source": {
+                "kind": "OFFICIAL",
+                "originUrl": "https://tamashiiweb.com/item/12177/?wovn=en",
                 "collectedAt": "2026-08-30",
                 "confidence": "OFFICIAL"
             }
